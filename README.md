@@ -19,5 +19,3 @@ To test your work, run test.py:
 ```
 python test.py
 ```
-
-
